@@ -1,10 +1,13 @@
 {
-  "name": "u7bu6XurqGRNuaXOkbKpklBGop4bjBo1ZCD4QdYvWjLrB9w86p",
+  "name": "แทงบอล - เว็บพนัน ufa191(ยูฟ่า191) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "แทงบอล จ่ายเต็มอัตราสูงสุดสมัครเว็บหวยฟรี เมื่อ แทงบอล ที่ UFA191 เว็บพนัน มีเกมพนันทุกชนิด เว็บหวย จ่าย แพง สนุกกับการเล่นหวยซื้อเลขออนไลน์อย่างปลอดภัย ผ่",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": ["แทงบอล","แทงบอล UFA191"],
+  "keywords": [
+    "แทงบอล",
+    "แทงบอล UFA191"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
