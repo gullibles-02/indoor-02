@@ -1,13 +1,10 @@
 {
-  "name": "เว็บตรง - เว็บพนัน qq288(คิวคิว288) สมัครฟรี เครดิตฟรี ที่นี้",
+  "name": "UtMM1iFRlFXS5fUEK4Xko75n5HS10TaJaMGPvQArz4oV17oJOh",
   "theme": "syntax",
   "version": "1.0.10",
   "description": "เว็บตรง ที่มีให้ลุ้นรับทรัพย์มากมาย กับ เว็บตรง ที่ QQ288 เว็บพนัน มีเกมพนันทุกชนิด เว็บหวยVipรับรองความปลอดภัยเล่นหวยแบบวีไอพีที่สุดได้ที่เว็บนี้ ล็อกอินเ",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": [
-    "เว็บตรง",
-    "เว็บตรง QQ288"
-  ],
+  "keywords": ["เว็บตรง","เว็บตรง QQ288"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
