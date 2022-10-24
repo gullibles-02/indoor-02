@@ -1,10 +1,13 @@
 {
-  "name": "4VbHPuoKvn1hvLw4UKpfNuIIdi4r7X7hIpNF225u88gtdEb309",
+  "name": "เว็บ - เว็บพนัน ufa191(ยูฟ่า191) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.8",
   "description": "เว็บ พวกเราเป็นผู้ให้บริการ ถึง เว็บ ที่ UFA191 เว็บพนัน อันดับหนึ่ง Slot168 ที่เยี่ยมที่สุดในประเทศไทย สล็อตแตกง่าย ฝากถอนเร็วทันใจ ระบบล้ำสมัยไม่มีอันตรา",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": ["เว็บ","เว็บ UFA191"],
+  "keywords": [
+    "เว็บ",
+    "เว็บ UFA191"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
