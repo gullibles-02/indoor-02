@@ -1,10 +1,13 @@
 {
-  "name": "51qh26AsDW21A3zWs8SZ6m3aAmvJ8716Ej1cjwNa6GTehWbpl9",
+  "name": "คาสิโนออนไลน์ - เว็บพนัน gclub(จีคลับ) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.4",
   "description": "คาสิโนออนไลน์ Superbonus911 เนื่องแต่ คาสิโนออนไลน์ ที่ Gclub เว็บพนัน มีเกมพนันทุกชนิด เว็บไซต์ คาสิโนออนไลน์ เว็บไซต์ ที่ท่านสมาชิกสามารถสมัครมาได้ง่าย ๆ",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": ["คาสิโนออนไลน์","คาสิโนออนไลน์ Gclub"],
+  "keywords": [
+    "คาสิโนออนไลน์",
+    "คาสิโนออนไลน์ Gclub"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
