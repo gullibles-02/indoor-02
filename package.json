@@ -1,10 +1,13 @@
 {
-  "name": "rzLvOEW9T20iK7gANqWXsWmzNKH5TzS4OkokTybI5O0SBoCZ22",
+  "name": "บาคาร่า มีคำตอบ",
   "theme": "syntax",
   "version": "1.0.18",
   "description": "บาคาร่า ที่สุดของเว็บไซต์ แต่ว่า บาคาร่า 123Play เว็บพนันออนไลน์ อันดับหนึ่ง พนันออนไลน์ ต้องเรา Ufasbo Auto ที่มีความทันสมัย และมีความเป็นมาตรฐานในระดับสา",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": ["บาคาร่า","บาคาร่า 123Play"],
+  "keywords": [
+    "บาคาร่า",
+    "บาคาร่า 123Play"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
