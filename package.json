@@ -1,10 +1,13 @@
 {
-  "name": "1BfUvebY3PUXtOpLbFZVOA114idOyV6zje1xH8uPhItiHcgVuu",
+  "name": "เว็บสล็อต คืออะไร-",
   "theme": "syntax",
   "version": "1.0.25",
   "description": "เว็บสล็อต สมัครแล้วอย่ามัวแต่รอช้าชักช้านี่รอกันอยู่เลยไม่อย่างนั้นคุณอาจจะพลาดโอกาสงามในการลุ้นโชคลุ้นเงินรางวัลใหญ่กับโบนัสก้อนโตที่แจกหนักรับเงินจริงจาก",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": ["เว็บสล็อต","เว็บสล็อต Slot888"],
+  "keywords": [
+    "เว็บสล็อต",
+    "เว็บสล็อต Slot888"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
