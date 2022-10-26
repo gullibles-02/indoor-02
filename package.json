@@ -1,10 +1,13 @@
 {
-  "name": "tbzSbgL4wwwmvDA5XgGjAx3VJWQ1pg8HI9URbm9Xns7luCYN8h",
+  "name": "เว็บ คืออะไร",
   "theme": "syntax",
   "version": "1.0.17",
   "description": "เว็บ สล็อต เท่ากับ เว็บ ที่ Mega888 เว็บพนัน อันดับหนึ่ง 1234 สล็อตออนไลน์ แห่งนี้ สล็อต เว็บ 1234 ถือได้ว่า เป็นเว็บไซต์สล็อต ที่สมัครสมาชิก ได้ง่ายดาย ที",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": ["เว็บ","เว็บ Mega888"],
+  "keywords": [
+    "เว็บ",
+    "เว็บ Mega888"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
