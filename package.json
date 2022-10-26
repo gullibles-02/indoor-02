@@ -1,10 +1,13 @@
 {
-  "name": "waPJHgbHJcHzOasL6ntQ0SKuJDozOxE0tqdNQhPuaqTqnFucJ9",
+  "name": "เกมคาสิโน ทำไมถึงนิยม-",
   "theme": "syntax",
   "version": "1.0.21",
   "description": "เกมคาสิโน สำหรับเกมส์บาคาร่าออนไลน์นั้น ก่อน เกมคาสิโน 818King เว็บพนันออนไลน์ อันดับหนึ่ง เกมคาสิโน เป็นเกมส์ที่มีวิธีการนับไพ่ที่ง่ายมาก ไม่มีความซับซ้อน",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": ["เกมคาสิโน","เกมคาสิโน 818King"],
+  "keywords": [
+    "เกมคาสิโน",
+    "เกมคาสิโน 818King"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
