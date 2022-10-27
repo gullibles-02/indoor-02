@@ -1,12 +1,10 @@
 {
-  "name": "เสือมังกรออนไลน์ เลือกยังไง - เว็บใหม่ rg888 2023 ล่าสุด",
+  "name": "QWS1ceklKXqWLH81uLN7ZsZrsvsjmfz4Qyys2XiyPslO7PEMJL",
   "theme": "syntax",
   "version": "1.0.66",
   "description": "เสือมังกรออนไลน์ ให้บริการ ดั่ง เสือมังกรออนไลน์ ที่ RG888 เว็บพนัน อันดับหนึ่ง เกมสล็อตออนไลน์ สบาย ไม่ต้องเดินทางไปไหนไกล ลุ้นคว้าเงินรางวัลได้ตลอด 24 ชั",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": [
-    null
-  ],
+  "keywords": [null],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
