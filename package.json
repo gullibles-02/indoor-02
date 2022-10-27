@@ -1,13 +1,10 @@
 {
-  "name": "สูตรบาคาร่า แตกต่างกันอย่างไร",
+  "name": "irey8Yn8pn73dvOHmL4SRt9dAdR7YaylTqVQHFfBqmu7DQeJNr",
   "theme": "syntax",
   "version": "1.0.33",
   "description": "สูตรบาคาร่า สมัครเว็บตรง ต่อ สูตรบาคาร่า ที่ Gclub-royal เว็บพนัน อันดับหนึ่ง Ufabet เพื่อเสถียรภาพการเดิมพันที่มั่นคง เว็บตรง ไม่งง แถมมงลงรับทรัพย์ก่อนใค",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": [
-    "สูตรบาคาร่า",
-    "สูตรบาคาร่า Gclub-royal"
-  ],
+  "keywords": ["สูตรบาคาร่า","สูตรบาคาร่า Gclub-royal"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
