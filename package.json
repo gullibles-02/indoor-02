@@ -1,10 +1,13 @@
 {
-  "name": "IerXXHBThZhQ8NbN4AR1iAqyy8i6wXtS7EQvZPJetc98MBpLeH",
+  "name": "siamltobet มีคำตอบ - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.75",
   "description": "SiamLTObet หวยมาเลย์ ถึง SiamLTObet Ruay รวย หวยออนไลน์ มีหวยทุกชนิด ออกทุกวันพุธ และเสาร์ อาทิตย์ เวลา 1840 และจะมีออกวันอังคารเป็นบางสัปดาห์ ตามเวลาประเท",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": ["SIAMLTOBET","SIAMLTOBET Ruay"],
+  "keywords": [
+    "SIAMLTOBET",
+    "SIAMLTOBET Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
