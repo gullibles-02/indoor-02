@@ -1,10 +1,13 @@
 {
-  "name": "JBzSZHgS35D3jmeHJ0pBdqNR1BRMhsbKd1Q2aHnu9RmDh5PhP0",
+  "name": "หวยดี888 ที่ไหน - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.55",
   "description": "หวยดี888 หมายเหตุ โดย หวยดี888 ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง หวยมาเลย์ ( Magnum 4d 万能万字 ) หรือ หวยมาเลเซีย เป็นการออกรางวัลที่ถูกต้องตามกฎหมาย แ",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": ["หวยดี888","หวยดี888 Thailotto"],
+  "keywords": [
+    "หวยดี888",
+    "หวยดี888 Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
