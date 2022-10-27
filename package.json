@@ -1,10 +1,10 @@
 {
-  "name": "s2ggpfrnB4rb92FXPGIPX8TNvHD3l6LFpuH7ARsYtnu6Kjj8mr",
+  "name": "pU8VjqEO2QvAKZ7gHOSQVeoS6WQNT2y02KbfTDgK2WLzdPLhMm",
   "theme": "syntax",
   "version": "1.0.64",
-  "description": "ผลหุ้นเยอรมัน การแทงหวยหุ้นฮั่งเส็งออนไลน์นั้น แต่ว่า ผลหุ้นเยอรมัน Jetsadabet เจษฎาเบท หวยออนไลน์ มีหวยทุกชนิด ทางเว็บไซต์ Mughuay ให้ราคาจ่ายที่คุ้มค่ามา",
+  "description": "เสือมังกรออนไลน์ ให้บริการ ดั่ง เสือมังกรออนไลน์ ที่ RG888 เว็บพนัน อันดับหนึ่ง เกมสล็อตออนไลน์ สบาย ไม่ต้องเดินทางไปไหนไกล ลุ้นคว้าเงินรางวัลได้ตลอด 24 ชั",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": ["ผลหุ้นเยอรมัน","ผลหุ้นเยอรมัน Jetsadabet"],
+  "keywords": [null],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
