@@ -1,10 +1,16 @@
 {
-  "name": "SFSbdOtfMLV02PyelrPWtOQ3jDa593tRWR6OBEJX8GCgkMTUUL",
+  "name": "ไลน์ ตรวจหวย ที่ไหน - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.84",
   "description": "ไลน์ ตรวจหวย ฟัน แต่ ไลน์ ตรวจหวย Huaysod หวยออนไลน์ อันดับหนึ่ง 3วิ่งรูด 3 8ได้แนวทางเลขเด็ดแม่น้ำหนึ่งกันแล้ว ดูแล้วรีบหาซื้อล็อตเตอร์รี่ออนไลน์ หรือหาซื",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": ["ไลน์ ตรวจหวย","ไลน์","ตรวจหวย","ไลน์ Huaysod","ตรวจหวย Huaysod"],
+  "keywords": [
+    "ไลน์ ตรวจหวย",
+    "ไลน์",
+    "ตรวจหวย",
+    "ไลน์ Huaysod",
+    "ตรวจหวย Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
