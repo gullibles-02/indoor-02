@@ -1,10 +1,16 @@
 {
-  "name": "hp5ja54mYkxvcCgwBWI5Ip9uax8wOhYItFnSz5NwetyMIbSw8s",
+  "name": "thailotto สมัครสมาชิก เล่นที่ไหน - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.59",
   "description": "thailotto สมัครสมาชิก การซื้อหวยออนไลน์ถือว่าจำเป็นต่อผู้คนมากๆในปัจจุบันนี้ ของ thailotto สมัครสมาชิก ที่ Huay Happy เว็บหวยออนไลน์ อันดับหนึ่ง เพราะมีควา",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": ["THAILOTTO สมัครสมาชิก","THAILOTTO","สมัครสมาชิก","THAILOTTO Huay Happy","สมัครสมาชิก Huay Happy"],
+  "keywords": [
+    "THAILOTTO สมัครสมาชิก",
+    "THAILOTTO",
+    "สมัครสมาชิก",
+    "THAILOTTO Huay Happy",
+    "สมัครสมาชิก Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
