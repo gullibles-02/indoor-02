@@ -1,10 +1,20 @@
 {
-  "name": "CWNrN6BHjlxZda6bHkjEQbyED3rkmMnqp40xzJFt0Of7JUksDx",
+  "name": "หวย 2 ตัวล่าง คือ ดูยังไง - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.1.11",
   "description": "หวย 2 ตัวล่าง คือ หวยไทยรัฐ หวย 2 ตัวล่าง คือ ทว่า หวย 2 ตัวล่าง คือ Jetsadabet เจษฎาเบท หวยออนไลน์ มีหวยทุกชนิด ชุดตารางเลขเด่นที่กำลังเดินดีจนคอหวยให้ควา",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": ["หวย 2 ตัวล่าง คือ","หวย","2","ตัวล่าง","คือ","หวย Jetsadabet","2 Jetsadabet","ตัวล่าง Jetsadabet","คือ Jetsadabet"],
+  "keywords": [
+    "หวย 2 ตัวล่าง คือ",
+    "หวย",
+    "2",
+    "ตัวล่าง",
+    "คือ",
+    "หวย Jetsadabet",
+    "2 Jetsadabet",
+    "ตัวล่าง Jetsadabet",
+    "คือ Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
