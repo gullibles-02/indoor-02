@@ -1,10 +1,18 @@
 {
-  "name": "WXu6dVh34RBZoUbBA17YX5kH5ULYadU3AnIeFzzJdQmI9mjFLt",
+  "name": "ซื้อหวยฮานอย เว็บไหนดี pantip ดูยังไง - เว็บใหม่ huaydee 2023 ล่าสุด-",
   "theme": "syntax",
   "version": "1.1.21",
   "description": "ซื้อหวยฮานอย เว็บไหนดี pantip เด่น ก่อน ซื้อหวยฮานอย เว็บไหนดี pantip Huaydee หวยออนไลน์ อันดับหนึ่ง 3 รอง 7 ได้ชุดแนวทางหวยรัฐบาลดังนี้แนวทางชุด 3 ตัว ได้",
   "repository": "https://github.com/gullibles-02/indoor-02",
-  "keywords": ["ซื้อหวยฮานอย เว็บไหนดี PANTIP","ซื้อหวยฮานอย","เว็บไหนดี","PANTIP","ซื้อหวยฮานอย Huaydee","เว็บไหนดี Huaydee","PANTIP Huaydee"],
+  "keywords": [
+    "ซื้อหวยฮานอย เว็บไหนดี PANTIP",
+    "ซื้อหวยฮานอย",
+    "เว็บไหนดี",
+    "PANTIP",
+    "ซื้อหวยฮานอย Huaydee",
+    "เว็บไหนดี Huaydee",
+    "PANTIP Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
